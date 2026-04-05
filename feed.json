@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "DYMusic",
     "description": "",
-    "home_page_url": "https://github.com/1201andy-source",
-    "feed_url": "https://github.com/1201andy-source/feed.json",
+    "home_page_url": "https://github.io/dymusic",
+    "feed_url": "https://github.io/dymusic/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/1201andy-source/media/website/353510115_261635933125607_5962244693864480210_n.jpg",
+    "icon": "https://github.io/dymusic/media/website/353510115_261635933125607_5962244693864480210_n.jpg",
     "author": {
         "name": "Dao-yang"
     },
     "items": [
         {
-            "id": "https://github.com/1201andy-source/epic-rpg-bgm.html",
-            "url": "https://github.com/1201andy-source/epic-rpg-bgm.html",
+            "id": "https://github.io/dymusic/epic-rpg-bgm.html",
+            "url": "https://github.io/dymusic/epic-rpg-bgm.html",
             "title": "EPIC RPG BGM",
             "summary": "DY W · EPIC RPG THEME MUSIC",
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"true\" data-translation=\"Add images\" data-columns=\"3\"> </div></div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2296835156&amp;color=%239c9c94&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe></div>\n<div style=\"font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;\"><a href=\"https://soundcloud.com/dy-w-202078121\" title=\"DY W\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">DY W</a> · <a href=\"https://soundcloud.com/dy-w-202078121/epic-rpg-theme-music\" title=\"EPIC RPG THEME MUSIC\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">EPIC RPG THEME MUSIC</a></div>",
-            "image": "https://github.com/1201andy-source/media/posts/3/1775370713607-2.png",
+            "image": "https://github.io/dymusic/media/posts/3/1775370713607-2.png",
             "author": {
                 "name": "Dao-yang"
             },
@@ -26,12 +26,12 @@
             "date_modified": "2026-04-05T15:21:04+08:00"
         },
         {
-            "id": "https://github.com/1201andy-source/xian-xia-zhi-yuza-tandai-ji.html",
-            "url": "https://github.com/1201andy-source/xian-xia-zhi-yuza-tandai-ji.html",
+            "id": "https://github.io/dymusic/xian-xia-zhi-yuza-tandai-ji.html",
+            "url": "https://github.io/dymusic/xian-xia-zhi-yuza-tandai-ji.html",
             "title": "閒暇之餘（雜談／待機）",
             "summary": "DY W · 閒暇之餘",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2296836278&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe></div>\n<div style=\"font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;\"><a href=\"https://soundcloud.com/dy-w-202078121\" title=\"DY W\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">DY W</a> · <a href=\"https://soundcloud.com/dy-w-202078121/9xxrzozqbjqs\" title=\"閒暇之餘\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">閒暇之餘</a></div>",
-            "image": "https://github.com/1201andy-source/media/posts/2/1775370653477-2.png",
+            "image": "https://github.io/dymusic/media/posts/2/1775370653477-2.png",
             "author": {
                 "name": "Dao-yang"
             },
@@ -41,12 +41,12 @@
             "date_modified": "2026-04-05T15:21:24+08:00"
         },
         {
-            "id": "https://github.com/1201andy-source/roguelike-battle-bgm.html",
-            "url": "https://github.com/1201andy-source/roguelike-battle-bgm.html",
+            "id": "https://github.io/dymusic/roguelike-battle-bgm.html",
+            "url": "https://github.io/dymusic/roguelike-battle-bgm.html",
             "title": "Roguelike battle BGM",
             "summary": "DY W · Roguelike battle BGM",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2296842230&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe></div>\n<div style=\"font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;\"><a href=\"https://soundcloud.com/dy-w-202078121\" title=\"DY W\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">DY W</a> · <a href=\"https://soundcloud.com/dy-w-202078121/roguelike-battle-ngm\" title=\"Roguelike battle BGM\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">Roguelike battle BGM</a></div>",
-            "image": "https://github.com/1201andy-source/media/posts/1/1775370962570-2.png",
+            "image": "https://github.io/dymusic/media/posts/1/1775370962570-2.png",
             "author": {
                 "name": "Dao-yang"
             },
