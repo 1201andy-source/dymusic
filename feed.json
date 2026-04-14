@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://1201andy-source.github.io/dymusic/mmo-rpg-bgm.html",
+            "url": "https://1201andy-source.github.io/dymusic/mmo-rpg-bgm.html",
+            "title": "MMO RPG BGM",
+            "summary": "DY W · MMO BGM Practice",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2302607462&amp;color=%239c9c94&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe></div>\n<div style=\"font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;\"><a href=\"https://soundcloud.com/dy-w-202078121\" title=\"DY W\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">DY W</a> · <a href=\"https://soundcloud.com/dy-w-202078121/mmo-bgm-practice\" title=\"MMO BGM Practice\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">MMO BGM Practice</a></div>",
+            "image": "https://1201andy-source.github.io/dymusic/media/posts/8/Gemini_Generated_Image_dq3qc0dq3qc0dq3q.png",
+            "author": {
+                "name": "Dao-yang"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-15T03:46:07+08:00",
+            "date_modified": "2026-04-15T03:46:07+08:00"
+        },
+        {
             "id": "https://1201andy-source.github.io/dymusic/epic-rpg-bgm.html",
             "url": "https://1201andy-source.github.io/dymusic/epic-rpg-bgm.html",
             "title": "EPIC RPG BGM",
