@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://1201andy-source.github.io/dymusic/mock-up-practice.html",
+            "url": "https://1201andy-source.github.io/dymusic/mock-up-practice.html",
+            "title": "Mock up Practice",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lO2i2ZXRVOo?si=aWhpxfX0BUh-riHT&amp;start=8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://1201andy-source.github.io/dymusic/media/posts/9/SWAM.png",
+            "author": {
+                "name": "Dao-yang"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-20T21:35:07+08:00",
+            "date_modified": "2026-04-20T21:36:00+08:00"
+        },
+        {
             "id": "https://1201andy-source.github.io/dymusic/mmo-rpg-bgm.html",
             "url": "https://1201andy-source.github.io/dymusic/mmo-rpg-bgm.html",
             "title": "MMO RPG BGM",

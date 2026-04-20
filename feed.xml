@@ -3,12 +3,30 @@
     <title>DYMusic</title>
     <link href="https://1201andy-source.github.io/dymusic/feed.xml" rel="self" />
     <link href="https://1201andy-source.github.io/dymusic" />
-    <updated>2026-04-15T03:46:07+08:00</updated>
+    <updated>2026-04-20T21:36:00+08:00</updated>
     <author>
         <name>Dao-yang</name>
     </author>
     <id>https://1201andy-source.github.io/dymusic</id>
 
+    <entry>
+        <title>Mock up Practice</title>
+        <author>
+            <name>Dao-yang</name>
+        </author>
+        <link href="https://1201andy-source.github.io/dymusic/mock-up-practice.html"/>
+        <id>https://1201andy-source.github.io/dymusic/mock-up-practice.html</id>
+        <media:content url="https://1201andy-source.github.io/dymusic/media/posts/9/SWAM.png" medium="image" />
+
+        <updated>2026-04-20T21:35:07+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://1201andy-source.github.io/dymusic/media/posts/9/SWAM.png" class="type:primaryImage" alt="" /></p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/lO2i2ZXRVOo?si=aWhpxfX0BUh-riHT&amp;start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>MMO RPG BGM</title>
         <author>
